@@ -52,6 +52,9 @@ export default function RootLayout({
           </>
         )}
       </body>
+      <p>备案号：
+      <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2023008949号-1</a>
+      </p>
     </html>
   );
 }
